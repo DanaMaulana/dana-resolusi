@@ -3,7 +3,7 @@ RENCANA PLATFORM DANA
 - Bootstrap
 - Framework JavaScript
   # Vue
-- JQuery
+  # React
 - JSon
 - PHP Framework
   # CodeIgniter
