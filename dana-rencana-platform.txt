@@ -2,9 +2,11 @@ RENCANA PLATFORM DANA
 
 - Bootstrap
 - Framework JavaScript
-  # Angular
+  # Vue
   # React
+- JSon
 - PHP Framework
   # CodeIgniter
   # Laravel
 - Struktur Dasar Dasar
+- Python
