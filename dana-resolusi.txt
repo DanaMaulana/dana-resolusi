@@ -2,3 +2,5 @@ DANA RESOLUSI
 - Saya Ingin konsisten dalam mempelajari Bahasa Pemrograman : HTML, CSS, PHP, JAVA, JAVASCRIPT, PHYTON, Golang, dan Bahasa lainnya yang saya sukai
 - Saya Ingin membuat sebuah halaman website yang sederhana namun menarik
 - Membuat ruang lingkup untuk para programmer handal dan profesional
+- Membuat sebuah platform yang sederhana
+- Memiliki banyak partner
